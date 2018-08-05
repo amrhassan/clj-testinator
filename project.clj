@@ -1,4 +1,4 @@
-(defproject clj-testinator "0.1.0-SNAPSHOT"
+(defproject testinator "0.1.0-SNAPSHOT"
   :description "FIXME: write description"
   :url "https://github.com/amrhassan/clj-testinator"
   :license {:name "MIT"}
